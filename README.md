@@ -1,4 +1,5 @@
 # myvue
+##这是毕业设计vue前端，后台代码可以在其他仓库看到，应该叫做mySSM
 
 ## Project setup
 ```
